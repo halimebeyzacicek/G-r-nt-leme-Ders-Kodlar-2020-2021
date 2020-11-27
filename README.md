@@ -7,4 +7,4 @@ week_5=intensity_gamma_correction <br/>
 week_6=median_filter <br/>
 week_7=dilation <br/>
 week_8.0=edge_detection_sobel <br/>
-week_8.1=opening and closeing <br/>
+week_8.1=opening and closing <br/>
