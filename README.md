@@ -1,6 +1,8 @@
 # Image_Processing_Lesson-2020-2021
 
 ## There is codes from Image Processing lesson in here.
+examples<br/>
+        1)reduce the size of the picture<br/><br/>
 week_2=return image <br/>
 week_3=convert to GrayLevel and BlackWhite <br/>
 week_5=intensity_gamma_correction <br/>
