@@ -10,5 +10,5 @@ week_6=median_filter <br/>
 week_7=dilation <br/>
 week_8.0=edge_detection_sobel <br/>
 week_8.1=opening and closing <br/>
-week_10= <br/>
+week_10=rotation with theta <br/>
 week_12=perceptron <br/>
